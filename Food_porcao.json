@@ -1,1 +1,51 @@
-[{"price":"35","description":"","food":"Frango","img":""},{"price":"35","description":"","food":"Lombo","img":""},{"price":"35","description":"","food":"Mista","img":""},{"price":"30","description":"","food":"1/2 Porção","img":""},{"price":"15","description":"","food":"Macarrão na Chapa","img":""},{"price":"30","description":"","food":"Batata com Bacon","img":""},{"price":"15","description":"","food":"Feijoada","img":""}]
+[
+  {
+    "p": "35",
+    "q": "0",
+    "d": "",
+    "f": "Frango",
+    "img": ""
+  },
+  {
+    "p": "35",
+    "q": "0",
+    "d": "",
+    "f": "Lombo",
+    "img": ""
+  },
+  {
+    "p": "35",
+    "q": "0",
+    "d": "",
+    "f": "Mista",
+    "img": ""
+  },
+  {
+    "p": "30",
+    "q": "0",
+    "d": "",
+    "food": "1/2 Porção",
+    "img": ""
+  },
+  {
+    "p": "15",
+    "q": "0",
+    "d": "",
+    "f": "Macarrão na Chapa",
+    "img": ""
+  },
+  {
+    "p": "30",
+    "q": "0",
+    "d": "",
+    "f": "Batata com Bacon",
+    "img": ""
+  },
+  {
+    "p": "15",
+    "q": "0",
+    "d": "",
+    "f": "Feijoada",
+    "img": ""
+  }
+]
