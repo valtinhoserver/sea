@@ -2,6 +2,7 @@
   {
     "p": "7",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de forma, presunto e muçarela. ",
     "f": "Misto Quente",
     "img": "https://2.bp.blogspot.com/-n0BRuB8rVnM/Wwv2pb63PcI/AAAAAAAAM_E/gYTFlGH39zg95nDYtdwPteKhFc8vocccgCLcBGAs/s1600/misto-quente-receita-1.jpeg"
@@ -9,6 +10,7 @@
   {
     "p": "11",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de Hambúrguer, bife, presunto, tomate, milho e batata.",
     "f": "Hambúrguer",
     "img": ""
@@ -16,6 +18,7 @@
   {
     "p": "12",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de Hambúrguer, bife, ovo, presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG",
     "img": ""
@@ -23,6 +26,7 @@
   {
     "p": "12",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de forma, ovo, tomate, presunto, muçarela, milho e batata.",
     "f": "AMERICANO",
     "img": ""
@@ -30,6 +34,7 @@
   {
     "p": "18",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de hambúrguer, bife, bacon, presunto, muçarela, tomate, milho e batata.",
     "f": "X-BACON",
     "img": ""
@@ -37,6 +42,7 @@
   {
     "p": "18",
     "q": "0",
+    "list": "hash_",
     "d": " Pão de hambúrguer, ovo, lombo, presunto, muçarela, tomate, milho e batata.",
     "f": "X-LOMBO",
     "img": ""
@@ -44,6 +50,7 @@
   {
     "p": "18",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de hambúrguer, ovo, frango, presunto,\nmuçarela, tomate, milho e batata.",
     "f": "X-FRANGO",
     "img": ""
@@ -51,6 +58,7 @@
   {
     "p": "20",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de hambúrguer, bife, ovo, bacon, presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG BACON",
     "img": ""
@@ -58,6 +66,7 @@
   {
     "p": "20",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de hambúrguer, ovo, lombo, bacon, presunto, muçarela, tomate, milho e batata",
     "f": "X-LOMBO BACON",
     "img": ""
@@ -65,6 +74,7 @@
   {
     "p": "20",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de Hambúrguer, ovo, frango, bacon, presunto, muçarela, tomate, milho e batata.",
     "f": "X-FRANGO BACON",
     "img": ""
@@ -72,6 +82,7 @@
   {
     "p": "30",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de hambúrguer, bife, ovo, lombo, bacon, frango, presunto, muçarela, tomate, milho e batata.",
     "f": "X-TUDO",
     "img": ""
@@ -79,6 +90,7 @@
   {
     "p": "35",
     "q": "0",
+    "list": "hash_",
     "d": "Pão de Hambúrguer, bife, ovo, lombo, bacon, frango, presunto, muçarela, tomate, milho e batata.",
     "f": "X-TUDO COM 2 PAES",
     "img": ""
