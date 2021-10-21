@@ -1,42 +1,37 @@
 [
   {
+    "q": "0",
+    "d": "Campari é um clássico contemporâneo e carismático que se manteve inalterado da fórmula original ao longo dos anos.",
+    "f": "Campare",
     "p": "7",
-    "q": "0",
-    "list": "hash_1",
-    "d": "",
-    "f": "CAMPARE",
     "img": ""
   },
   {
+    "q": "0",
+    "d": "O rum Montilla Carta Ouro é caracterizado por suas notas de mel e frutas secas, além de apresentar um paladar levemente adocicado.",
+    "f": "Rum Montilla",
     "p": "6",
-    "q": "0",
-    "list": "hash_1",
-    "d": "",
-    "f": "RUM MONTILA",
     "img": ""
   },
   {
+    "q": "0",
+    "d": "A Absolut Mango é uma vodka com sabor frutado e tropical, graças às notas de manga madura, maracujá e abacaxi. ",
+    "f": "Vodka",
     "p": "6",
-    "q": "0",
-    "list": "hash_1",
-    "d": "",
-    "f": "VODKA",
     "img": ""
   },
   {
+    "q": "0",
+    "d": "Elaborado pela vinícola Salton, utlizando destilado base proveniente de cana-de-açúcar e exclusivos extratos naturais de gengibre, ameixa e carvalho. ",
+    "f": "Presidente",
     "p": "4",
-    "q": "0",
-    "list": "hash_1",
-    "d": "",
-    "f": "PRESIDENTE",
     "img": ""
   },
   {
-    "p": "2",
     "q": "0",
-    "list": "hash_1",
-    "d": "",
-    "f": "PINGA",
+    "d": "Pura ou mesmo como ingrediente de deliciosos coquetéis de frutas ou em uma caipirinha de limão, a Cachaça, da Velho Barreiro, se destaca por sua tradição e qualidade.",
+    "f": "Pinga",
+    "p": "2",
     "img": ""
   }
 ]
