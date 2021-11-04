@@ -1,86 +1,84 @@
 [
   {
-    "p": "7",
+    "p": "7.00",
     "q": "1",
-    "d": "Pão de forma, presunto e muçarela. ",
+    "d": "Pão de forma, presunto e muçarela.",
     "f": "Misto Quente",
     "img": "https://2.bp.blogspot.com/-n0BRuB8rVnM/Wwv2pb63PcI/AAAAAAAAM_E/gYTFlGH39zg95nDYtdwPteKhFc8vocccgCLcBGAs/s1600/misto-quente-receita-1.jpeg"
   },
   {
-    "p": "11",
+    "p": "11.00",
     "q": "1",
-    "d": "Pão de Hambúrguer, bife, presunto, tomate, milho e batata.",
+    "d": "Pão de hambúrguer, bife, presunto, muçarela, tomate, milho e batata.",
     "f": "Hambúrguer",
     "img": ""
   },
   {
-    "p": "12",
+    "p": "12.00",
     "q": "1",
-    "d": "Pão de Hambúrguer, bife, ovo, presunto, muçarela, tomate, milho e batata.",
+    "d": "Pão de hambúrguer, bife, ovo, presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG",
     "img": ""
   },
   {
-    "p": "12",
+    "p": "12.00",
     "q": "1",
-    "d": "Pão de forma, ovo, tomate, presunto, muçarela, milho e batata.",
+    "d": "Pão de forma, ovo,tomate, presunto, muçarela, milho e batata.",
     "f": "AMERICANO",
     "img": ""
   },
   {
-    "p": "18",
+    "p": "18.50",
     "q": "1",
-    "d": "Pão de hambúrguer, bife, bacon, presunto, muçarela, tomate, milho e batata.",
+    "d": "Pão de hambúrguer,  bife, bacon, presunto, muçarela, tomate, milho e batata.",
     "f": "X-BACON",
     "img": ""
   },
   {
-    "p": "18",
+    "p": "18.50",
     "q": "1",
-    "d": " Pão de hambúrguer, ovo, lombo, presunto, muçarela, tomate, milho e batata.",
-    "f": "X-LOMBO",
+    "d": "Pão de hambúrguer, ovo, lombo, presunto,  muçarela, tomate, milho e batata.",
     "img": ""
   },
   {
-    "p": "18",
+    "p": "18.50",
     "q": "1",
-    "d": "Pão de hambúrguer, ovo, frango, presunto,\nmuçarela, tomate, milho e batata.",
+    "d": "Pão de hambúrguer, ovo, frango, presunto,  muçarela, tomate, milho e batata.",
     "f": "X-FRANGO",
     "img": ""
   },
   {
-    "p": "20",
+    "p": "20.00",
     "q": "1",
-    "d": "Pão de hambúrguer, bife, ovo, bacon, presunto, muçarela, tomate, milho e batata.",
+    "d": "Pão de hambúrguer, bife, ovo, bacon,  presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG BACON",
     "img": ""
   },
   {
-    "p": "20",
+    "p": "20.00",
     "q": "1",
-    "d": "Pão de hambúrguer, ovo, lombo, bacon, presunto, muçarela, tomate, milho e batata",
+    "d": "Pão de hambúrguer, ovo, lombo, bacon,  presunto, muçarela, tomate, milho e batata.",
     "f": "X-LOMBO BACON",
     "img": ""
   },
   {
-    "p": "20",
+    "p": "20.00",
     "q": "1",
-    "d": "Pão de Hambúrguer, ovo, frango, bacon, presunto, muçarela, tomate, milho e batata.",
+    "d": "Pão de hambúrguer, ovo, frango, bacon, presunto , muçarela, tomate,  milho e batata.",
     "f": "X-FRANGO BACON",
     "img": ""
   },
   {
-    "p": "30",
+    "p": "30.00",
     "q": "1",
-    "d": "Pão de hambúrguer, bife, ovo, lombo, bacon, frango, presunto, muçarela, tomate, milho e batata.",
-    "f": "X-TUDO",
+    "d": "Pão de hambúrguer, bife , ovo, lombo,  bacon, frango, presunto, muçarela, tomate, milho e batata.",
     "img": ""
   },
   {
-    "p": "35",
+    "p": "35.00",
     "q": "1",
     "d": "Pão de Hambúrguer, bife, ovo, lombo, bacon, frango, presunto, muçarela, tomate, milho e batata.",
-    "f": "X-TUDO COM 2 PAES",
+    "f": "X-TUDO 2 PÃES",
     "img": ""
   }
 ]
