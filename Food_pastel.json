@@ -1,30 +1,30 @@
 [
   {
-    "p": "7",
+    "p": "7.00",
     "q": "0",
     "d": "Carne.",
-    "f": "Pastel",
+    "f": "Pastel de Carne",
     "img": ""
   },
   {
-    "p": "7",
+    "p": "7.00",
     "q": "0",
     "d": "Presunto e Mussarela.",
-    "f": "Pastel",
+    "f": "Pastel de Presunto e Mussarela.",
     "img": ""
   },
   {
-    "p": "7",
+    "p": "7.00",
     "q": "0",
     "d": "Frango.",
-    "f": "Pastel",
+    "f": "Pastel de Frango.",
     "img": ""
   },
   {
-    "p": "7",
+    "p": "7.00",
     "q": "0",
     "d": "Queijo.",
-    "f": "Pastel",
+    "f": "Pastel de Queijo.",
     "img": ""
   }
 ]
