@@ -3,6 +3,7 @@
     "q": "0",
     "d": "Campari é um clássico contemporâneo e carismático que se manteve inalterado da fórmula original ao longo dos anos.",
     "f": "Campare",
+    "c":"not",
     "p": "7.00",
     "img": ""
   },
@@ -10,6 +11,7 @@
     "q": "0",
     "d": "O rum Montilla Carta Ouro é caracterizado por suas notas de mel e frutas secas, além de apresentar um paladar levemente adocicado.",
     "f": "Rum Montilla",
+    "c":"not",
     "p": "6.00",
     "img": ""
   },
@@ -17,6 +19,7 @@
     "q": "0",
     "d": "A Absolut Mango é uma vodka com sabor frutado e tropical, graças às notas de manga madura, maracujá e abacaxi. ",
     "f": "Vodka",
+    "c":"not",
     "p": "6.00",
     "img": ""
   },
@@ -24,6 +27,7 @@
     "q": "0",
     "d": "Elaborado pela vinícola Salton, utlizando destilado base proveniente de cana-de-açúcar e exclusivos extratos naturais de gengibre, ameixa e carvalho. ",
     "f": "Presidente",
+    "c":"not",
     "p": "4.00",
     "img": ""
   },
@@ -31,6 +35,7 @@
     "q": "0",
     "d": "Pura ou mesmo como ingrediente de deliciosos coquetéis de frutas ou em uma caipirinha de limão, a Cachaça, da Velho Barreiro, se destaca por sua tradição e qualidade.",
     "f": "Pinga",
+    "c":"not",
     "p": "2.00",
     "img": ""
   }
