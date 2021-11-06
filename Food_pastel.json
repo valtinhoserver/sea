@@ -2,6 +2,7 @@
   {
     "p": "7.00",
     "q": "0",
+    "c":"not",
     "d": "Carne.",
     "f": "Pastel de Carne",
     "img": ""
@@ -9,6 +10,7 @@
   {
     "p": "7.00",
     "q": "0",
+    "c":"not",
     "d": "Presunto e Mussarela.",
     "f": "Pastel de Presunto e Mussarela.",
     "img": ""
@@ -16,6 +18,7 @@
   {
     "p": "7.00",
     "q": "0",
+    "c":"not",
     "d": "Frango.",
     "f": "Pastel de Frango.",
     "img": ""
@@ -23,6 +26,7 @@
   {
     "p": "7.00",
     "q": "0",
+    "c":"not",
     "d": "Queijo.",
     "f": "Pastel de Queijo.",
     "img": ""
