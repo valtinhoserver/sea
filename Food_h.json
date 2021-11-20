@@ -1,7 +1,7 @@
 [
   {
     "p": "7.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de forma, presunto e muçarela.",
     "f": "Misto Quente",
@@ -9,7 +9,7 @@
   },
   {
     "p": "11.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, bife, presunto, muçarela, tomate, milho e batata.",
     "f": "Hambúrguer",
@@ -17,7 +17,7 @@
   },
   {
     "p": "12.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, bife, ovo, presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG",
@@ -25,7 +25,7 @@
   },
   {
     "p": "12.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de forma, ovo,tomate, presunto, muçarela, milho e batata.",
     "f": "AMERICANO",
@@ -33,7 +33,7 @@
   },
   {
     "p": "18.50",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer,  bife, bacon, presunto, muçarela, tomate, milho e batata.",
     "f": "X-BACON",
@@ -41,7 +41,7 @@
   },
   {
     "p": "18.50",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, ovo, lombo, presunto,  muçarela, tomate, milho e batata.",
     "f": "X-LOMBO",
@@ -49,7 +49,7 @@
   },
   {
     "p": "18.50",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, ovo, frango, presunto,  muçarela, tomate, milho e batata.",
     "f": "X-FRANGO",
@@ -57,7 +57,7 @@
   },
   {
     "p": "20.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, bife, ovo, bacon,  presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG BACON",
@@ -65,7 +65,7 @@
   },
   {
     "p": "20.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, ovo, lombo, bacon,  presunto, muçarela, tomate, milho e batata.",
     "f": "X-LOMBO BACON",
@@ -73,7 +73,7 @@
   },
   {
     "p": "20.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, ovo, frango, bacon, presunto , muçarela, tomate,  milho e batata.",
     "f": "X-FRANGO BACON",
@@ -81,7 +81,7 @@
   },
   {
     "p": "30.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de hambúrguer, bife , ovo, lombo,  bacon, frango, presunto, muçarela, tomate, milho e batata.",
     "f": "X-TUDO",
@@ -89,7 +89,7 @@
   },
   {
     "p": "35.00",
-    "q": "1",
+    "q": "0",
     "c":"not",
     "d": "Pão de Hambúrguer, bife, ovo, lombo, bacon, frango, presunto, muçarela, tomate, milho e batata.",
     "f": "X-TUDO 2 PÃES",
