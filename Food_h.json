@@ -5,7 +5,9 @@
     "c":"not",
     "d": "Pão de forma, presunto e muçarela.",
     "f": "Misto Quente",
-    "img": "https://i.imgur.com/EFB8Y8x.jpeg"
+    "img": "https://i.imgur.com/EFB8Y8x.jpeg",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "11.00",
@@ -13,7 +15,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, bife, presunto, muçarela, tomate, milho e batata.",
     "f": "Hambúrguer",
-    "img": "https://i.imgur.com/tufvP5b.jpeg"
+    "img": "https://i.imgur.com/tufvP5b.jpeg",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "12.00",
@@ -21,7 +25,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, bife, ovo, presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiFv0kXDwVgvnRfpf_Khr6Ynlg2GRddNOunnWsHkY6I-vH30YY_E6CApshYFY1TvtDc4fb3qYxA-hPL3qEWhiXii0R06T8j6p0h4db604dY5Ow075gZuEmWqJrBdBPa8p7tAEX0tCH7A-hi28j7PVlYurOfQmNUk6AIaQ-yKDL_nkEhR80tMyR5ia5d=s1000"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiFv0kXDwVgvnRfpf_Khr6Ynlg2GRddNOunnWsHkY6I-vH30YY_E6CApshYFY1TvtDc4fb3qYxA-hPL3qEWhiXii0R06T8j6p0h4db604dY5Ow075gZuEmWqJrBdBPa8p7tAEX0tCH7A-hi28j7PVlYurOfQmNUk6AIaQ-yKDL_nkEhR80tMyR5ia5d=s1000",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "12.00",
@@ -29,7 +35,9 @@
     "c":"not",
     "d": "Pão de forma, ovo,tomate, presunto, muçarela, milho e batata.",
     "f": "AMERICANO",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEipHDi9PCT-AyazLFOr4hvvecQNQZK1OcfciDUrnzmnp8kbODL3oEvKTab3HnspDCZoi1IKM2T7Uc_N08MVTo7MZmcIt3rrL4FQy9aaP9oUAPO9r2BnNF4JCVCNbv-U-Vmd5hT_0zHSIdA0_ss10kwFx89DjZqu529txN-0SXe-AAXF9wO8CUsujH5h=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEipHDi9PCT-AyazLFOr4hvvecQNQZK1OcfciDUrnzmnp8kbODL3oEvKTab3HnspDCZoi1IKM2T7Uc_N08MVTo7MZmcIt3rrL4FQy9aaP9oUAPO9r2BnNF4JCVCNbv-U-Vmd5hT_0zHSIdA0_ss10kwFx89DjZqu529txN-0SXe-AAXF9wO8CUsujH5h=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "18.50",
@@ -38,6 +46,8 @@
     "d": "Pão de hambúrguer,  bife, bacon, presunto, muçarela, tomate, milho e batata.",
     "f": "X-BACON",
     "img": "https://i.imgur.com/pmu3oKT.jpeg"
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "18.50",
@@ -45,7 +55,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, ovo, lombo, presunto,  muçarela, tomate, milho e batata.",
     "f": "X-LOMBO",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhk1laOS0VxPEyKoL_bCnMcLK8yf70CqTgAAWzyIFDA3anMTViOVWSpOjQf_t-3Ea4XDVJ2efp1C_79zDrOhaXoBvJvEY6NXDBJDtaVKArw4Y8chHOpuACuW2Kis9fC3mCcVrowa5sNv4Q7yEXMR_drkaMv3NmhWzYSJVtQ8wWd4SR2wC726tWfX6gP=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhk1laOS0VxPEyKoL_bCnMcLK8yf70CqTgAAWzyIFDA3anMTViOVWSpOjQf_t-3Ea4XDVJ2efp1C_79zDrOhaXoBvJvEY6NXDBJDtaVKArw4Y8chHOpuACuW2Kis9fC3mCcVrowa5sNv4Q7yEXMR_drkaMv3NmhWzYSJVtQ8wWd4SR2wC726tWfX6gP=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "18.50",
@@ -53,7 +65,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, ovo, frango, presunto,  muçarela, tomate, milho e batata.",
     "f": "X-FRANGO",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhiTlk-3sw6L0Ijuce6hKsJV-wkP-0N1Y7ohN6j0BYjJO-iM_KdUjXvsKeOn-YPbfhcRIyFJgwYeu9YoMzGTVa832T4m3zrORvgTpgXuG6IjS6sjYBdg8CWTd48j8vHwDxoReejeySfgdkuEDCj0IcBhbSirskuH54vt3sP5HWrDtwsY03msnxIqY0x"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhiTlk-3sw6L0Ijuce6hKsJV-wkP-0N1Y7ohN6j0BYjJO-iM_KdUjXvsKeOn-YPbfhcRIyFJgwYeu9YoMzGTVa832T4m3zrORvgTpgXuG6IjS6sjYBdg8CWTd48j8vHwDxoReejeySfgdkuEDCj0IcBhbSirskuH54vt3sP5HWrDtwsY03msnxIqY0x",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "20.00",
@@ -61,7 +75,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, bife, ovo, bacon,  presunto, muçarela, tomate, milho e batata.",
     "f": "X-EGG BACON",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiFv0kXDwVgvnRfpf_Khr6Ynlg2GRddNOunnWsHkY6I-vH30YY_E6CApshYFY1TvtDc4fb3qYxA-hPL3qEWhiXii0R06T8j6p0h4db604dY5Ow075gZuEmWqJrBdBPa8p7tAEX0tCH7A-hi28j7PVlYurOfQmNUk6AIaQ-yKDL_nkEhR80tMyR5ia5d=s1000"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiFv0kXDwVgvnRfpf_Khr6Ynlg2GRddNOunnWsHkY6I-vH30YY_E6CApshYFY1TvtDc4fb3qYxA-hPL3qEWhiXii0R06T8j6p0h4db604dY5Ow075gZuEmWqJrBdBPa8p7tAEX0tCH7A-hi28j7PVlYurOfQmNUk6AIaQ-yKDL_nkEhR80tMyR5ia5d=s1000",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "20.00",
@@ -69,7 +85,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, ovo, lombo, bacon,  presunto, muçarela, tomate, milho e batata.",
     "f": "X-LOMBO BACON",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhk1laOS0VxPEyKoL_bCnMcLK8yf70CqTgAAWzyIFDA3anMTViOVWSpOjQf_t-3Ea4XDVJ2efp1C_79zDrOhaXoBvJvEY6NXDBJDtaVKArw4Y8chHOpuACuW2Kis9fC3mCcVrowa5sNv4Q7yEXMR_drkaMv3NmhWzYSJVtQ8wWd4SR2wC726tWfX6gP=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhk1laOS0VxPEyKoL_bCnMcLK8yf70CqTgAAWzyIFDA3anMTViOVWSpOjQf_t-3Ea4XDVJ2efp1C_79zDrOhaXoBvJvEY6NXDBJDtaVKArw4Y8chHOpuACuW2Kis9fC3mCcVrowa5sNv4Q7yEXMR_drkaMv3NmhWzYSJVtQ8wWd4SR2wC726tWfX6gP=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "20.00",
@@ -77,7 +95,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, ovo, frango, bacon, presunto , muçarela, tomate,  milho e batata.",
     "f": "X-FRANGO BACON",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhiTlk-3sw6L0Ijuce6hKsJV-wkP-0N1Y7ohN6j0BYjJO-iM_KdUjXvsKeOn-YPbfhcRIyFJgwYeu9YoMzGTVa832T4m3zrORvgTpgXuG6IjS6sjYBdg8CWTd48j8vHwDxoReejeySfgdkuEDCj0IcBhbSirskuH54vt3sP5HWrDtwsY03msnxIqY0x"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhiTlk-3sw6L0Ijuce6hKsJV-wkP-0N1Y7ohN6j0BYjJO-iM_KdUjXvsKeOn-YPbfhcRIyFJgwYeu9YoMzGTVa832T4m3zrORvgTpgXuG6IjS6sjYBdg8CWTd48j8vHwDxoReejeySfgdkuEDCj0IcBhbSirskuH54vt3sP5HWrDtwsY03msnxIqY0x",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "30.00",
@@ -85,7 +105,9 @@
     "c":"not",
     "d": "Pão de hambúrguer, bife , ovo, lombo,  bacon, frango, presunto, muçarela, tomate, milho e batata.",
     "f": "X-TUDO",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjIDmEZGG-6JpWjs4hH4sueqyzKpZb7cAbEoa0k2JTQFeM9xWK2zCZpdpKUGy0PkNvju6QpF1PEqNKWehQorOvRkQzP_7cNae8E6l8ZvLdSn0TXoz5qob78aTunmy5EzkgkYcEQn7rCvRlN649pzAeRDCyEyVfb_XCPc_afmPQpl0OVz7T9v9BzFT1n=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjIDmEZGG-6JpWjs4hH4sueqyzKpZb7cAbEoa0k2JTQFeM9xWK2zCZpdpKUGy0PkNvju6QpF1PEqNKWehQorOvRkQzP_7cNae8E6l8ZvLdSn0TXoz5qob78aTunmy5EzkgkYcEQn7rCvRlN649pzAeRDCyEyVfb_XCPc_afmPQpl0OVz7T9v9BzFT1n=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "35.00",
@@ -93,7 +115,9 @@
     "c":"not",
     "d": "Pão de Hambúrguer, bife, ovo, lombo, bacon, frango, presunto, muçarela, tomate, milho e batata.",
     "f": "X-TUDO 2 PÃES",
-    "img": "https://i.imgur.com/tufvP5b.jpeg"
+    "img": "https://i.imgur.com/tufvP5b.jpeg",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "35.00",
@@ -101,7 +125,9 @@
     "c":"not",
     "d": "",
     "f": "FRANGO",
-    "img": "https://i.imgur.com/WnCHcBt.jpeg"
+    "img": "https://i.imgur.com/WnCHcBt.jpeg",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "35.00",
@@ -109,7 +135,9 @@
     "c":"not",
     "d": "",
     "f": "Lombo",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiiZtf-Ru293FgSXbEyk8h0SzyjQPXGTYMuP376ExatgH52pu49TuAOUYdDoznVZugXiyVNz39ei_8CF8poSIzUyjycJQeomQjGpnia0Lm6vqvaIMzfeVmWgFba69kcjy4pLVw_GxDV3U8msPzW0LmHzvcyppKBVRfa3SHqIGtxNNaeHH4ieRsN18Jn=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiiZtf-Ru293FgSXbEyk8h0SzyjQPXGTYMuP376ExatgH52pu49TuAOUYdDoznVZugXiyVNz39ei_8CF8poSIzUyjycJQeomQjGpnia0Lm6vqvaIMzfeVmWgFba69kcjy4pLVw_GxDV3U8msPzW0LmHzvcyppKBVRfa3SHqIGtxNNaeHH4ieRsN18Jn=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "35.00",
@@ -117,7 +145,9 @@
     "c":"not",
     "d": "",
     "f": "Mista",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhRR0jUmvZNAX-VgsCANwxyz5U8TiRpp6A1KQvoHrmHOWLEr98GCg7x7nA-GYqbsVOA4VPFzzipb6DfqFoim5x1vhiTuoLh6eiPNr7SU1tkqS4FSZJVX4nzVyF44KMjqQt-ewBoGmt6HoOQDSldMS6uKw-CH8dktlC0ofBODLJbESJpmIE9DIYEW9QB=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhRR0jUmvZNAX-VgsCANwxyz5U8TiRpp6A1KQvoHrmHOWLEr98GCg7x7nA-GYqbsVOA4VPFzzipb6DfqFoim5x1vhiTuoLh6eiPNr7SU1tkqS4FSZJVX4nzVyF44KMjqQt-ewBoGmt6HoOQDSldMS6uKw-CH8dktlC0ofBODLJbESJpmIE9DIYEW9QB=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "30.00",
@@ -125,7 +155,9 @@
     "c":"not",
     "d": "",
     "f": "½ PORÇÃO",
-    "img": "https://i.imgur.com/WnCHcBt.jpeg"
+    "img": "https://i.imgur.com/WnCHcBt.jpeg",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "15.00",
@@ -133,7 +165,9 @@
     "c":"not",
     "d": "",
     "f": "Macarrão na Chapa",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEivNpIBa2sHhPQEiBTVLe5tew5PuiizJVEz6ApCKmAEGKWKQUU1FXxqRMbL_uwEEefXwUpPfSGOKjbcXzUQ4tnjOg4nvd8omUBKvD2bA8ura_CRMBlzEuY6GCVOhAIOVQQc6UNKMe-MNaMmfJTmTqR8gPCVggkJtbvZUEUeuAwSC5QI4BNOejqlJ0hf=s710"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEivNpIBa2sHhPQEiBTVLe5tew5PuiizJVEz6ApCKmAEGKWKQUU1FXxqRMbL_uwEEefXwUpPfSGOKjbcXzUQ4tnjOg4nvd8omUBKvD2bA8ura_CRMBlzEuY6GCVOhAIOVQQc6UNKMe-MNaMmfJTmTqR8gPCVggkJtbvZUEUeuAwSC5QI4BNOejqlJ0hf=s710",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "30.00",
@@ -141,7 +175,9 @@
     "c":"not",
     "d": "",
     "f": "Batata com Bacon",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgFi88z0ILtZ1GbKjxFA3vmhf7ey6xNpfJhHUFwjC-3XpHxGRcY8Ajm53tGhPQ5y0v3e34vNhGyeivTMarsEW7z61_qE6fivF6II5TUMub8etAs1fMDUqU_e53VCClCpkq5v05e2P4AbotFziIzmlDDqD6-qrFheOVhhsEhoIb2w79LAcbQbUTtbSkK=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgFi88z0ILtZ1GbKjxFA3vmhf7ey6xNpfJhHUFwjC-3XpHxGRcY8Ajm53tGhPQ5y0v3e34vNhGyeivTMarsEW7z61_qE6fivF6II5TUMub8etAs1fMDUqU_e53VCClCpkq5v05e2P4AbotFziIzmlDDqD6-qrFheOVhhsEhoIb2w79LAcbQbUTtbSkK=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "15.00",
@@ -149,7 +185,9 @@
     "c":"not",
     "d": "",
     "f": "Feijoada",
-    "img": "https://i.imgur.com/QwX1amT.jpeg"
+    "img": "https://i.imgur.com/QwX1amT.jpeg",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "7.00",
@@ -157,7 +195,9 @@
     "c":"not",
     "d": "Carne.",
     "f": "Pastel de Carne",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "7.00",
@@ -165,7 +205,9 @@
     "c":"not",
     "d": "Presunto e Mussarela.",
     "f": "Pastel de Presunto e Mussarela.",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "7.00",
@@ -173,7 +215,9 @@
     "c":"not",
     "d": "Frango.",
     "f": "Pastel de Frango.",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "p": "7.00",
@@ -181,7 +225,9 @@
     "c":"not",
     "d": "Queijo.",
     "f": "Pastel de Queijo.",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiIgVAOdudwAUxEHZT2kq2LwjS5eI6ZzQezuOkl2hLMyH-s5V-QbX03coUVtGDgiRiAKG7my5HgE8sZkBrwsrTJq2KYX8lTdFyOVbvqgR1DwgzJr4tHLfIT4G3RABkbqUHTy0gPcIFVrrJK7L2ZQd6lG9HVE2B34CfwLr32EDkrMcnYtdNsc0v3W9L1=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
     {
     "q": "0",
@@ -189,7 +235,9 @@
     "f": "Campare",
     "c":"not",
     "p": "7.00",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjiw-MX0SkvkJ13NLGaeAbqsYLYNsOc7lGYsZjENNZ8s4OUvu4fU0O8OFaAZJe3sTXmFB_Qgl-t4tywrtUTNEcYu3TjLiPkjEmUg4z7IzGBeUf-mfosPUxdtwOKSrdGA0PHPhtz1i3vLPlOiQQzdY9LB0Mta3cND2jlyzRsM9mVGi3nMQVW53RSbYnm=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjiw-MX0SkvkJ13NLGaeAbqsYLYNsOc7lGYsZjENNZ8s4OUvu4fU0O8OFaAZJe3sTXmFB_Qgl-t4tywrtUTNEcYu3TjLiPkjEmUg4z7IzGBeUf-mfosPUxdtwOKSrdGA0PHPhtz1i3vLPlOiQQzdY9LB0Mta3cND2jlyzRsM9mVGi3nMQVW53RSbYnm=s320",
+     "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "q": "0",
@@ -197,7 +245,9 @@
     "f": "Rum Montilla",
     "c":"not",
     "p": "6.00",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhmD_SbTFCXEtqZBMDTh76g3G3dZq_O6dI2Kuwpt_Ui8U2GrwKW8OaCkgx4qMwang0aCqdZ9w9AkJgmhBt_tpgNywOdN_C7OyS0TnfQzbDbOEnBIzVOSpG3967OkH961gNR2K_r2AOBgyQzJP5NSeQXjuowaSkQCaBFN2WoV-Hbd8DELwaAiOCgEhT1=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhmD_SbTFCXEtqZBMDTh76g3G3dZq_O6dI2Kuwpt_Ui8U2GrwKW8OaCkgx4qMwang0aCqdZ9w9AkJgmhBt_tpgNywOdN_C7OyS0TnfQzbDbOEnBIzVOSpG3967OkH961gNR2K_r2AOBgyQzJP5NSeQXjuowaSkQCaBFN2WoV-Hbd8DELwaAiOCgEhT1=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "q": "0",
@@ -205,7 +255,9 @@
     "f": "Vodka",
     "c":"not",
     "p": "6.00",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjBHB6oT4L4thn3ZKIN7-MsrxvXcLcZslbWJNVjZlD4oIbW2WzI6xHCgdCUe_fsrLwnl_CccXf4bb8tJSw8W9sFd4VtSG7jGb-nzIyhDM461Kmnsx6B7NYdk5w3kQQAKFpT-xx2zvghCLCfzj8FhtPWHcrBXwxizjS5HW72F9-HpnvYobZWB6zrpxYU=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjBHB6oT4L4thn3ZKIN7-MsrxvXcLcZslbWJNVjZlD4oIbW2WzI6xHCgdCUe_fsrLwnl_CccXf4bb8tJSw8W9sFd4VtSG7jGb-nzIyhDM461Kmnsx6B7NYdk5w3kQQAKFpT-xx2zvghCLCfzj8FhtPWHcrBXwxizjS5HW72F9-HpnvYobZWB6zrpxYU=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "q": "0",
@@ -213,7 +265,9 @@
     "f": "Presidente",
     "c":"not",
     "p": "4.00",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiB4VKNTYq2dbCkSf23dYgdhnW93qRxXiGTD5-2RdANuBzcfvaYysa6lydaFQL6kNwTh8RpK3NUS_4J8SvQvjwgxWKt2HE07owUBp8d2cbFpxdjTGa2fTzcU760u8nXytboXN_qCd2pL2mccAX7iyKWn23091XNJEorVpuSDSivfOrXo3NYBwJ8vJrF=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiB4VKNTYq2dbCkSf23dYgdhnW93qRxXiGTD5-2RdANuBzcfvaYysa6lydaFQL6kNwTh8RpK3NUS_4J8SvQvjwgxWKt2HE07owUBp8d2cbFpxdjTGa2fTzcU760u8nXytboXN_qCd2pL2mccAX7iyKWn23091XNJEorVpuSDSivfOrXo3NYBwJ8vJrF=s320",
+    "name":  "Porçao de Frango",
+    "visible":  "0"
   },
   {
     "q": "0",
@@ -221,6 +275,6 @@
     "f": "Pinga",
     "c":"not",
     "p": "2.00",
-    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjC1AeljsaCvS7Cteiu5hx6piB5ShPeoNYVCB1Cwcu10e3HC3OspfS8ug98bppgFwRgLTBG8-7VXsKryoW8593uuuSOmM7M4DjPx4Rou3cQzqzU7SLKjURq3fIPMIFIy6tjiA2VvYWIl9mOid6aw49295HBEwswcur7jaN0xU6ityw5tLFN6sYv4OPV=s320"
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjC1AeljsaCvS7Cteiu5hx6piB5ShPeoNYVCB1Cwcu10e3HC3OspfS8ug98bppgFwRgLTBG8-7VXsKryoW8593uuuSOmM7M4DjPx4Rou3cQzqzU7SLKjURq3fIPMIFIy6tjiA2VvYWIl9mOid6aw49295HBEwswcur7jaN0xU6ityw5tLFN6sYv4OPV=s320",
   }
 ]
